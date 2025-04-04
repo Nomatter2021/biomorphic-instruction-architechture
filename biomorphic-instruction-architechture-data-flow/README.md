@@ -10,6 +10,11 @@ You don't need runtime logic or external frameworks.
 **If you understand the diagram, the rules, and the data flow – you can implement or extend BIA safely.**
 
 ---
+### System Diagram
+
+![BIA Data Flow Diagram](./BIA_DATAFLOW.jpg)
+
+> **Figure 1.** The compile-time structural pipeline in BIA.
 
 ## Contents
 
