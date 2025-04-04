@@ -10,11 +10,6 @@ You don't need runtime logic or external frameworks.
 **If you understand the diagram, the rules, and the data flow – you can implement or extend BIA safely.**
 
 ---
-### System Diagram
-
-![BIA Data Flow Diagram](./BIA_DATAFLOW.jpg)
-
-> **Figure 1.** The compile-time structural pipeline in BIA.
 
 ## Contents
 
@@ -26,7 +21,9 @@ Visualize the full architecture:
 - Compile-time behavior routing  
 → Shows `friend` relationships, subclass hierarchy, and trust boundaries.
 
-_See: `/assets/BIA_Diagram.svg`_
+![BIA Data Flow Diagram](./BIA_DATAFLOW.jpg)
+
+> **Figure 1.** The compile-time structural pipeline in BIA.  
 
 ---
 
